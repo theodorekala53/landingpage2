@@ -11732,3 +11732,15 @@ html {
     left: -2vw;
   }
 }
+
+.je-valide{
+  padding: 15px 45px;
+  border-radius: 5px;
+  border: none;
+  background-color: #e21e80;
+  color: white;
+}
+
+.row{
+  margin: 10px;
+}
